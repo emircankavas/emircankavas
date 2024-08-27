@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emircankavas&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emircankavas&layout=compact&theme=radical)
+
 <!--
 **emircankavas/emircankavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
